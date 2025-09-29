@@ -32,5 +32,5 @@ I am confident and proficient in this Stack more than any other that's the reaso
 c) Assumptions:
 
 1) Only a registered user is authorised to access the main portal(Homepage) or any other route in the website. So, kindly first create an ID using signup form then enter the website.
-2) As mentioned before every user will provide their own JWT_SECRET_KEY, NODE_ENV, MONGO_URI, PORT number in their .env.(this step is very important please take care).
+2) As mentioned before every user will provide their own JWT_SECRET, NODE_ENV, MONGO_URI, PORT number in their .env in the backend.(this step is very important please take care, use exactly the names given here).
 3) Backend and frontend assume Mongodb and Node.js are installed and running locally.
